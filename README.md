@@ -1,4 +1,4 @@
-**NOTE: this project is in maintenance mode (bug fix only), I redirected my effort to JDBM4 which should provide better concurrent scalability**
+**NOTE: this project is in maintenance mode (bug fix only), I redirected my effort to [JDBM4/MapDB](https://github.com/jankotek/mapdb) which should provide better concurrent scalability**
 
 JDBM provides TreeMap, HashMap and other collections backed up by disk storage.
 Now you can handle billions of items without ever running out of memory.
